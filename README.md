@@ -18,7 +18,7 @@ This platform showcases my creative journey as a self-taught photographer, featu
 ## 🚀 Technologies Used
 
 - **HTML5 & CSS3:** For the structure and design of the website.  
-- **JavaScript:** Adds interactive elements for a smooth user experience.  
+- **JavaScript, ReactJs:** Adds interactive elements for a smooth user experience.  
 - **Adobe Lightroom / Photoshop:** For post-processing and photo enhancements.  
 - **Hosting:** Deployed on [Netlify](https://www.netlify.com).  
 
